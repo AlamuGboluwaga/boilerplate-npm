@@ -1,5 +1,5 @@
-{
-	"name": "Gboluwaga Adeoye",
+{"name": "fcc-learn-npm-package-json",
+	"author":"Gboluwaga Adeoye",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
